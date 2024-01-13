@@ -3,17 +3,13 @@
 - company: Nestle India
   position: IT Research Intern
   duration: March, 2022 &mdash; May, 2022
-  summary: <ul class="resume-item-list"><li> Researched and implemented cost-cutting strategies in the IT sector, resulting in a savings of 10 million rupees.</li>
-  <li> Collaborated with team members to research, implement and check the feasibility of the ideas.</li></ul>
+  summary: <ul class="resume-item-list"><li> Researched and implemented cost-cutting strategies in the IT sector, resulting in a savings of 10 million rupees.</li><li> Collaborated with team members to research, implement and check the feasibility of the ideas.</li></ul>
 
 # Web Development Intern
 - company: KasaKai Mumbai 
   position: Web Development Intern
   duration: July, 2021 &mdash; Nov, 2021
-  summary: <ul class="resume-item-list"><li> Created a new website for the company using Django framework with Google authentication for user login and ensured a
-responsive layout, worked with Google Firebase to manage user inputted data across multiple platforms.</li>
-  <li> Collaborated with team members using version control systems such as Git to organize modifications and assign tasks.</li>
-  <li> Efficiently managed and maintained database administration for event ticketing.</li></ul>
+  summary: <ul class="resume-item-list"><li> Created a new website for the company using Django framework with Google authentication for user login and ensured a responsive layout, worked with Google Firebase to manage user inputted data across multiple platforms.</li><li> Collaborated with team members using version control systems such as Git to organize modifications and assign tasks.</li><li> Efficiently managed and maintained database administration for event ticketing.</li></ul>
 
 
 # Web Development Intern

@@ -16,7 +16,7 @@
   description: <ul class="resume-item-list"><li>Trained the model on dataset collected from kaggle, also utilized the layout editor to create a UI for the application in order to allow user to enter data and to interact with application to calculate insurance price.</li></ul>
 
 # E-Commerce website: Furniture and Home decor
-- project: E-Commerce website :% Furniture and Home decor
+- project: "E-Commerce website : Furniture and Home decor"
   # role: Co-Founder & Organizer
   duration: July 2021 &mdash; Dec 2021
   # url: "#"

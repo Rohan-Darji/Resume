@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# X-Ray Disease Identifier
+- project: X-Ray Disease Identifier
+  # role: Founder & Primary Developer
+  duration: July 2022 &mdash; Dec 2022
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: <ul class="resume-item-list"><li>Developed an app using flutter that can analyse X-rays and predict the state of the patient, app also contained a section which gave diet plans based on calories.</li><li>Used a deep learning model to predict output which was trained on data from National Institute of Health</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Medical Insurance Cost Predictor using ML
+- project: Medical Insurance Cost Predictor using ML
+  # role: Co-Founder & Organizer
+  duration: Jan 2022 &mdash; April 2022
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: <ul class="resume-item-list"><li>Trained the model on dataset collected from kaggle, also utilized the layout editor to create a UI for the application in order to allow user to enter data and to interact with application to calculate insurance price.</li></ul>
+
+# E-Commerce website: Furniture and Home decor
+- project: E-Commerce website :% Furniture and Home decor
+  # role: Co-Founder & Organizer
+  duration: July 2021 &mdash; Dec 2021
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Designed an e-commerce website for selling furniture and home decor items using Django framework and SQLite3 database with functionality to login using google account to the website and save their cart items for future purchase.</li></ul>

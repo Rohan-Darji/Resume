@@ -1,12 +1,16 @@
 # Skills
 # Languages & Frameworks
 - skill: Languages & Frameworks
-  description:  Python, C++, C, HTML/CSS, JavaScript, MySQL, Django, Flutter, Google Firebase
+  description: Python, C++, C, HTML/CSS, JavaScript, MySQL, Django, Flutter, Google Firebase
 
 # Developer Tools
 - skill: Developer Tools
-  description:  Visual Studio Code, Eclipse, Android Studio
+  description: Visual Studio Code, Eclipse, Android Studio
 
+# Libraries
+- skill: Libraries
+  description: Matplotlib, NumPy, Scikit-learn, Tensorflow, Keras, Pandas, Scipy, Seaborn
+  
 # Technologies
 - skill: Technologies
-  description:  Git, Github, Linux, UI/UX designing, Machine Learning
+  description: Git, Github, Linux, UI/UX designing, Machine Learning

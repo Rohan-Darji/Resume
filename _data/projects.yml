@@ -6,18 +6,18 @@
   # role: Founder & Primary Developer
   duration: July 2022 &mdash; Dec 2022
   # url: "#"
-  description: <ul class="resume-item-list"><li>Developed an app using flutter that can analyse X-rays and predict the state of the patient, app also contained a section which gave diet plans based on calories.</li><li>Used a deep learning model to predict output which was trained on data from National Institute of Health</li></ul>
+  description: <ul class="resume-item-list"><li>Developed an app using flutter that can analyse chest X-rays and predict the state of the patient i.e., infected or not.</li><li>Used VGG-19 deep learning model to predict output with an accuracy of about 80% which was trained on data from National Institute of Health which consisted of about 100k X-Rays comprising data of 14 different types of diseases.</li><li>Added a diet section to the app which allowed users to get a diet plan based on specific number of calories. Data was fetched and posted on the app through an API.</li></ul>
 
 # Medical Insurance Cost Predictor using ML
 - project: Medical Insurance Cost Predictor using ML
   # role: Co-Founder & Organizer
   duration: Jan 2022 &mdash; April 2022
   # url: "#"
-  description: <ul class="resume-item-list"><li>Trained the model on dataset collected from kaggle, also utilized the layout editor to create a UI for the application in order to allow user to enter data and to interact with application to calculate insurance price.</li></ul>
+  description: <ul class="resume-item-list"><li>Trained a machine learning model to calculate the insurance price with an accuracy of 87%.</li><li>Also utilized the layout editor to create a UI for the application in order to allow user to enter data and interact with application to calculate insurance price.</li></ul>
 
 # E-Commerce website: Furniture and Home decor
 - project: "E-Commerce website : Furniture and Home decor"
   # role: Co-Founder & Organizer
   duration: July 2021 &mdash; Dec 2021
   # url: "#"
-  description: <ul class="resume-item-list"><li>Designed an e-commerce website for selling furniture and home decor items using Django framework and SQLite3 database with functionality to login using google account to the website and save their cart items for future purchase.</li></ul>
+  description: <ul class="resume-item-list"><li>Designed an e-commerce website for selling furniture and home decor items using Django framework and SQLite3.</li><li>Successfully implemented Google Authentication and PayPal payment integration, enhancing user experience by enabling seamless login via Google accounts.</li><li>This feature also allowed users to conveniently save their cart items for future purchases and streamline payments, resulting in an increase in user retention by 20% and a significant transaction completion rates.</li></ul>

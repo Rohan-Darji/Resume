@@ -2,7 +2,7 @@
 - degree: Masters in Computer Science
   uni: Indiana University
   year: 2023 &mdash; 2025
-  cgpa: 3.567
+  cgpa: 3.57/4.00
   courses:
     - course: Applied Algorithms
     - course: Applied Machine Learning
@@ -15,11 +15,9 @@
 - degree: Bachelors of Engineering, Information Technology
   uni: University of Mumbai
   year: 2019 &mdash; 2023
-  cgpa: 9.42
-  # courses:
-  #   - course: Applied Algorithms
-  #   - course: Applied Machine Learning
-  #   - course: Data Mining
-  #   - course: Computer Vision
-  #   - course: Engineering Cloud Computing
-  #   - course: Software Engineering
+  cgpa: 3.90/4.00
+  courses:
+    - course: Advanced Data Structure and Analysis
+    - course: Computer Network Security
+    - course: Wireless Technology
+    - course: Software testing and QA
